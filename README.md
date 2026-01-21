@@ -40,21 +40,6 @@ I am a Computer Science recent graduate with a profound interest in technology a
 
 ---
 
-### Databases
-<div>
-    <img src="https://img.shields.io/badge/-PostgreSQL-4169E1?&style=for-the-badge&logo=PostgreSQL&logoColor=white" />
-</div>
-
----
-
-### DevOps & CI/CD
-<div>
-    <img src="https://img.shields.io/badge/-GitHub_Actions-2088FF?&style=for-the-badge&logo=GitHubActions&logoColor=white" />
-    <img src="https://img.shields.io/badge/-CI%2FCD-0A0A0A?&style=for-the-badge&logo=GitHub&logoColor=white" />
-</div>
-
----
-
 ### Observability & Elastic Stack
 <div>
     <img src="https://img.shields.io/badge/-Elasticsearch-005571?&style=for-the-badge&logo=Elasticsearch&logoColor=white" />
